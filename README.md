@@ -37,4 +37,4 @@ The main goal is to stay consistent for the full 100 days, get comfortable with 
 
 For now, I'm just focusing on learning something new every day and actually writing the code instead of only watching the lessons.
 
-**Day 2 complete. 98 more to go. 🚀**
+**Day 3 complete. 97 more to go. 🚀**
