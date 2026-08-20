@@ -6,7 +6,7 @@ I'm uploading the code and small projects I build along the way so I can look ba
 
 ## 📅 Current Progress
 
-**Day 2 / 100** ✅
+**Day 4 / 100** ✅
 
 So far, I've covered:
 
@@ -16,7 +16,11 @@ So far, I've covered:
 * Type conversion
 * Input and output
 * Basic mathematical operations
-* Simple Python programs
+* Conditional statements
+* Randomisation
+* Lists
+* Modules
+* Small projects and exercises
 
 ## 📂 Repository Structure
 
@@ -24,8 +28,11 @@ Each day has its own folder containing the code and exercises I've worked on tha
 
 ```text
 python-bootcamp/
+│
 ├── Day 1/
 ├── Day 2/
+├── Day 3/
+├── Day 4/
 └── README.md
 ```
 
@@ -35,6 +42,6 @@ I'll keep adding a new folder as I move through the bootcamp.
 
 The main goal is to stay consistent for the full 100 days, get comfortable with Python, and gradually move from basic programs to more useful projects.
 
-For now, I'm just focusing on learning something new every day and actually writing the code instead of only watching the lessons.
+For now, I'm focusing on learning something new every day and actually writing the code instead of only watching the lessons.
 
-**Day 3 complete. 97 more to go. 🚀**
+**Day 4 complete. 96 more to go. 🚀**
