@@ -1,0 +1,3 @@
+import random
+game =["rock","paper","scissor"] #<=== this is a list ........
+print(random.choice(game))
